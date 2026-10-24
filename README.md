@@ -78,8 +78,8 @@ The notebook follows the three tasks of the project brief.
 ## Quick start
 
 ```bash
-git clone https://github.com/SomanthaManuranga/Social-Media-Addition---Data-Analytics.git
-cd Social-Media-Addition---Data-Analytics
+git clone https://github.com/SomanthaManuranga/student-social-media-addiction-eda.git
+cd student-social-media-addiction-eda
 pip install -r requirements.txt
 ```
 
